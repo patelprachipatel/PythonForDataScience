@@ -1,3 +1,4 @@
 # PythonForDataScience
 This is python for data science.
-<br>Author - Prachi Patel
+<br>
+Author - Prachi Patel
